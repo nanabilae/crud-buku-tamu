@@ -1,0 +1,12 @@
+
+.App {
+   max-width: 750px;
+  margin: 0 auto
+}  
+
+.background {
+  background-image: url('/src/tamu.jpg');
+  background-size: cover;
+  background-repeat: no-repeat; 
+ 
+}
